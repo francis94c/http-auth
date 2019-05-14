@@ -2,7 +2,7 @@
   "name": "francis94c/http-auth",
   "type": "library",
   "description": "A Library for basic HTTP Authentication in Code Igniter.",
-  "tags": ["twitter", "social"],
+  "tags": ["http", "auth"],
   "page": "https://github.com/francis94c/http-auth",
   "authors": [
     {
